@@ -1,2 +1,2 @@
-# Tidyng the data from the Human Activity Recognition Using Smartphones Dataset
+# Project for the Getting and Cleaning Data course
 
